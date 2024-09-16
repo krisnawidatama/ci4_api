@@ -2,7 +2,7 @@
 
 ### a. **System Requirements**
 - **Web Server**: Apache atau Nginx
-- **PHP**: Versi 7.4 atau lebih baru
+- **PHP**: Versi 8.2.0 atau lebih baru
 - **Database**: MySQL atau database relasional lain yang didukung
 - **Composer**: Untuk mengelola dependencies
 
